@@ -1,30 +1,36 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research focuses on the impact of communication on social behavior and public opinion.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D. in Sociology
+    institution: University of Arizona
+    year: 2019
+  - course: M.A. in Sociology
+    institution: University of Arizona
+    year: 2014
+  - course: M.A. in Economics
+    institution: Bogazici University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.A. in Economics
+    institution: Bogazici University
+    year: 2010
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Social Networks
+- Public Health
+- Communication and Behavior
+- Culture
+name: Meltem Odabas
 organizations:
-- name: Stanford University
+- name: Indiana University - Bloomington
   url: ""
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow in the Department of Sociology
 social:
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
   link: '#contact'
@@ -43,6 +49,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research investigates the role of interaction and communication networks in decision-making and behavior in a variety of social settings including markets, online communication platforms, and social movements. I mainly use quantitative data using various methods, including statistical methods and regression analyses, social network analysis (SNA) and computational methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
