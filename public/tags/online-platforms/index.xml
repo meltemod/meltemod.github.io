@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Meltem Odabas</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <title>Online Platforms | Meltem Odabas</title>
+    <link>/tags/online-platforms/</link>
+      <atom:link href="/tags/online-platforms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Online Platforms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Online Platforms</title>
+      <link>/tags/online-platforms/</link>
     </image>
-    
-    <item>
-      <title>Projects</title>
-      <link>/project_webpage/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/project_webpage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-prescription Networks and Prescription Drug Seeking Behavior</title>
-      <link>/project/doctor-shopping/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/doctor-shopping/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Cultural Interaction and Community Membership</title>
