@@ -4,21 +4,21 @@ authors:
 - '**Meltem Odabas**'
 - Thomas J. Holt
 - Ronald L. Breiger
-date: "2020-06-01T00:00:00Z"
-doi: ""
+date: "2017-09-01T00:00:00Z"
+doi: "https://doi.org/10.1177/0002764217734266"
 featured: false
 image:
-  caption: 'Image credit: [**www.commonwealthfund.org**](https://www.commonwealthfund.org/publications/issue-briefs/2017/oct/paying-prescription-drugs-around-world-why-us-outlier'
+  caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Under Review*'
+publication: '*American Behavioral Scientist*'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-10-01T00:00:00Z"
 slides: 
-summary: This paper presents an exploratory analysis of the monitoring systems used within illicit onine markets. These 
+summary: 'This paper presents an exploratory analysis of how social interactions play a role in the formation of illicit online markets and become tools for governing such markets. Various kins of monitoring tools are used to increase the level of trust between the buyers and the sellers, which in turn increases demands for the illicit products.'
 tags:
 - Source Themes
 title: 'Markets as Governance Environments for Organizations at the Edge of Illegality: Insights from Social Network Analysis'

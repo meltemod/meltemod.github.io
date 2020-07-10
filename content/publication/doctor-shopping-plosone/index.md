@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*PLOS ONE, 14*(10)'
+publication: '*PLOS ONE'
 publication_short: ""
 publication_types:
 - "2"

@@ -5,7 +5,7 @@
     <link>/authors/meltem-odabas/</link>
       <atom:link href="/authors/meltem-odabas/index.xml" rel="self" type="application/rss+xml" />
     <description>**Meltem Odabas**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>**Meltem Odabas**</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
+      <title>Co-prescription network reveals social dynamics of opioid doctor shopping</title>
+      <link>/publication/doctor-shopping-plosone/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/doctor-shopping-plosone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Governance in online stolen data markets</title>
+      <link>/publication/marketasgovernancebookchapter/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/marketasgovernancebookchapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Markets as Governance Environments for Organizations at the Edge of Illegality: Insights from Social Network Analysis</title>
       <link>/publication/marketasgovernancepaper/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>/publication/marketasgovernancepaper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Co-prescription network reveals social dynamics of opioid doctor shopping</title>
-      <link>/publication/doctor-shopping-plosone/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/doctor-shopping-plosone/</guid>
+      <title>Tweeting from Gezi Park: Social Media and Repression Backfire</title>
+      <link>/publication/gezisocialcurrents/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gezisocialcurrents/</guid>
       <description></description>
     </item>
     
