@@ -7,7 +7,7 @@ menu:
   social-networks:
     name: Course Details
     weight: 1
-summary: The idea of social network became commonplace with the introduction of social networking websites and platforms, including but not limited to Facebook, Twitter, Reddit and LinkedIn. 
+summary: Introductory Social Network Analysis Course (accompanied with Rprogramming skills for creating and measuring networks).  
 title: Social Networks
 toc: true
 type: docs
