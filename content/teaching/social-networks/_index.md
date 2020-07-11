@@ -7,7 +7,7 @@ menu:
   social-networks:
     name: Course Details
     weight: 1
-summary: Introductory Social Network Analysis Course (accompanied with Rprogramming skills for creating and measuring networks).  
+summary: Introductory Social Network Analysis Course (accompanied with R programming skills for creating and measuring networks).  
 title: Social Networks
 toc: true
 type: docs
