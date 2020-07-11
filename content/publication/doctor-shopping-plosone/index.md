@@ -18,7 +18,7 @@ image:
   caption: 'Image credit: [**www.commonwealthfund.org**](https://www.commonwealthfund.org/publications/issue-briefs/2017/oct/paying-prescription-drugs-around-world-why-us-outlier'
   focal_point: ""
   preview_only: false
-projects: []
+projects: [doctor-shopping]
 publication: '*PLOS ONE'
 publication_short: ""
 publication_types:

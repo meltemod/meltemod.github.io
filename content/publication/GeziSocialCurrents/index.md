@@ -10,7 +10,7 @@ image:
   caption: 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [gezi]
 publication: '*Social Currents*'
 publication_short: ""
 publication_types:
@@ -19,7 +19,9 @@ publishDate: "2017-10-01T00:00:00Z"
 slides: 
 summary: 'This paper examines how social media may facilitate protest mobilization in response to violent state repression, using survey data collected during Summer 2013 Gezi Protests in Istanbul, Turkey.'
 tags:
-- Source Themes
+- Social Movements
+- Social Media
+- Mobilization
 title: 'Tweeting from Gezi Park: Social Media and Repression Backfire'
 url_code: ""
 url_dataset: ""

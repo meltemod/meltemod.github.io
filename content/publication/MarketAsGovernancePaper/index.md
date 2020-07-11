@@ -11,7 +11,7 @@ image:
   caption: 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [illicit-markets]
 publication: '*American Behavioral Scientist*'
 publication_short: ""
 publication_types:

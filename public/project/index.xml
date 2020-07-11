@@ -5,12 +5,41 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Cross-country comparison of Public Opinion about CoVID-19</title>
+      <link>/project/c19-twitter/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/c19-twitter/</guid>
+      <description>&lt;Under Construction&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Co-prescription Networks of the Opioid Epidemic</title>
+      <link>/project/doctor-shopping/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/doctor-shopping/</guid>
+      <description>&lt;p&gt;This 
+&lt;a href=&#34;https://iuni.iu.edu/projects/doctor-shopping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIH-funded&lt;/a&gt; collaborative project assess network-based measures to analyze patterns of opioid prescription-drug seeking behavior and misuse of opioid drugs. Patient-provider (and therefore two-mode) prescription networks are utilized to generate network-based prescription-drug seeking metrics. The goal of this research is to improve the methods to identify early and intermittent signs of opioid-misuse behavior as well as patient groups who are at high risk of opioid use disorder and overdose.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking Public Opinion on Turkish Political Landscape</title>
+      <link>/project/tr-politics-twitter/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/tr-politics-twitter/</guid>
+      <description>&lt;p&gt;One line of this research provides an exploratory analysis of the March 2019 Turkish local election discussions on Twitter to examine whether tracking new hashtags significantly improves the power of the model to identify the diversity of narratives of an event, as compared to tracking the generic hashtag only.The results of the analysis show that although using the generic hashtag only is as effective as using the hashtags with the highest betweenness centrality collected through the snowball sampling method, a supervised selection of the hashtags collected through the snowball sampling method appears to be more effective in collecting tweets that belong to various opinion groups, as opposed to hashtags collected through using the generic hashtag only. Therefore, supervised methods of data collection appear to be more effective as compared to unsupervised methods when the goal is to track the public opinion through online discussions.&lt;/p&gt;
+&lt;p&gt;The second line of analysis focuses on the June 2019 re-run Istanbul elections. Following a mixed methods approach, this research identifies the themes in the discursive fields and filters a large list of tweets into thematic categories using quantitative computational methods, which allows a systematic and time-efficient categorization for in-depth qualitative reading of the large text corpora.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Projects</title>
@@ -21,19 +50,31 @@
     </item>
     
     <item>
-      <title>Co-prescription Networks and Prescription Drug Seeking Behavior</title>
-      <link>/project/doctor-shopping/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/doctor-shopping/</guid>
-      <description></description>
+      <title>Community membership effects on online reputation</title>
+      <link>/project/reddit-music/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/reddit-music/</guid>
+      <description>&lt;p&gt;This project analyzes how members of online platforms are evaluated by others members based on the variety of cultural group affiliations. While affiliation in multiple cultural groups is often rewarded with higher evaluations, active members of dissimilar communities rather get penalized. Therefore, online community members with multiple cultural interests stand out as cultural enthusiasts. As these multiple interests are diversified, however, members face difficulties in fitting in to the communities. Members of multiple communities with different audiences therefore are penalized as cultural misfits.&lt;/p&gt;
+&lt;p&gt;This research project uses large-scale Reddit participation data of 462 music-related subreddits (i.e. subcommunities) and approximately 750 thousand active redditors (i.e. Reddit members).&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Cultural Interaction and Community Membership</title>
-      <link>/project/reddit-music/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/reddit-music/</guid>
-      <description>&lt;p&gt;In this project I investigate how an individual’s positioning in the cultural space impacts the way other members of the community perceive them. Co-cultural affiliation networks is used in the literature to measure cultural omnivorousness, in other words, whether individuals affiliate themselves with atypical sets of cultural interests. While empirical analyses frequently rely on survey data, surveys do not provide information on other the community members’ perception of the participant based on their positioning in the cultural structure. Therefore, I use large-scale communication data from a popular discussion and news aggregation website, Reddit.&lt;/p&gt;
+      <title>Governing Illicit Online Markets through Communication and Trust</title>
+      <link>/project/illicit-markets/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/project/illicit-markets/</guid>
+      <description>&lt;p&gt;This project investigates the role of communication among market users is for building market trust in illicit and online markets. Because the illicit and online nature of such markets necessitates adopting specific trust mechanisms to create a functioning market. Trust-creating monitoring mechanisms are usually established through communication across various actors inthe market &amp;ndash; admins, buyers and sellers. This project provides not only a theoretical framework for the adopted monitoring mechanisms to inhibit trust but also provides an exploratory analysis of online stolen credit card markets using social network analysis methods. This research is funded by the 
+&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1314631&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF Securing Cyber Space Project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Media Effects on Offline Street Mobilization</title>
+      <link>/project/gezi/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/project/gezi/</guid>
+      <description>&lt;p&gt;Empirical studies analyzing the relation between repression and social movement mobilization find mixed results: repression leads to deterrence in some cases while causing a backfire in others. This project investigates whether using social media impacts repression backfire (i.e., public reaction of outrage) as a reaction to police violence. We use survey data from Gezi Park (Istanbul) in June 2013, during the first week of Gezi Movement in Turkey. Our results show that social media is effective in mobilizing participants who are least expected to attend the movement, such as those with less experience in former protest participation, or lacking organizational ties. While friendship networks are effective in the intial stages of the protest, social media use is effective for bringing a large influx of participants, especially as a response to police violence. These results may indicate that social media can provide the “moral shock” that has the power to recruit strangers.&lt;/p&gt;
 </description>
     </item>
     

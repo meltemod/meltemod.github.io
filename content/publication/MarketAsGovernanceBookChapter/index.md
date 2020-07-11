@@ -11,7 +11,7 @@ image:
   caption:
   focal_point: ""
   preview_only: false
-projects: []
+projects: [illicit-markets]
 publication: '*The Architecture of Illegal Markets: Towards an Economic Sociology of Illegality in the Economy* eds. Jens Beckert and Matias Dewey'
 publication_short: ""
 publication_types:
