@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Meltem Odabas</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Didem Turkoglu | Meltem Odabas</title>
+    <link>/authors/didem-turkoglu/</link>
+      <atom:link href="/authors/didem-turkoglu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Didem Turkoglu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Didem Turkoglu</title>
+      <link>/authors/didem-turkoglu/</link>
     </image>
     
     <item>
@@ -19,46 +19,6 @@
       <guid>/publication/c19-sms-2k/</guid>
       <description>&lt;p&gt;Responses to crises highlight and exacerbate class inequalities. Seemingly neutral policy measures taken during the COVID-19 pandemic that aim to protect high-risk groups can lead to a shift in the public discourse that deprives citizens of their agency based not only on their age but also their class. In this article, we focus on the case of Turkey, one of the countries with the fastest growth of novel coronavirus cases at the time, where the government introduced a curfew for people over the age of 65 while actively encouraging the working-age population to stay at home without a nation-wide quarantine. An intersectional analysis of the Twitter campaign #StayatHome [#EvdeKal] and the media outlets&amp;rsquo; news coverage of the policy implementation show that both platforms circulated human-interest stories of working-class men who defy the curfew predominantly. Both the stories and Twitter user comments often define the subjects of those stories as rule-breakers and, therefore, as &amp;ldquo;mischievous uncles.&amp;rdquo; They become the scapegoats while upper and middle classes avoid the label. These findings have implications for the framing of policy outcomes, welfare provisions as well as oppositional politics that push for the expansion of labor protections during the pandemic.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Co-prescription network reveals social dynamics of opioid doctor shopping</title>
-      <link>/publication/doctor-shopping-plosone/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/doctor-shopping-plosone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication_webpage/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication_webpage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Governance in online stolen data markets</title>
-      <link>/publication/marketasgovernancebookchapter/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/marketasgovernancebookchapter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markets as Governance Environments for Organizations at the Edge of Illegality: Insights from Social Network Analysis</title>
-      <link>/publication/marketasgovernancepaper/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/marketasgovernancepaper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tweeting from Gezi Park: Social Media and Repression Backfire</title>
-      <link>/publication/gezisocialcurrents/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/gezisocialcurrents/</guid>
-      <description></description>
     </item>
     
   </channel>

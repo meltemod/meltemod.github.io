@@ -13,98 +13,18 @@
     </image>
     
     <item>
-      <title>**Meltem Odabas (co-author)**</title>
-      <link>/authors/meltem-odabas-co-author/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/meltem-odabas-co-author/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brea L Perry (co-author)</title>
-      <link>/authors/brea-l-perry-co-author/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/brea-l-perry-co-author/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brian Aronson</title>
-      <link>/authors/brian-aronson/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/brian-aronson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Byungkyu Lee</title>
-      <link>/authors/byungkyu-lee/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/byungkyu-lee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carrie B Oser</title>
-      <link>/authors/carrie-b-oser/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/carrie-b-oser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jaehyuk Park</title>
-      <link>/authors/jaehyuk-park/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jaehyuk-park/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeffery Talbert</title>
-      <link>/authors/jeffery-talbert/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jeffery-talbert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kai Cheng Yang</title>
-      <link>/authors/kai-cheng-yang/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/kai-cheng-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patricia R Freeman</title>
-      <link>/authors/patricia-r-freeman/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/patricia-r-freeman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patrick Kaminski</title>
-      <link>/authors/patrick-kaminski/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/patrick-kaminski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yong-Yeol Ahn</title>
-      <link>/authors/yong-yeol-ahn/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/yong-yeol-ahn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>**Meltem Odabas**</title>
       <link>/authors/meltem-odabas/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/meltem-odabas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Didem Turkoglu</title>
+      <link>/authors/didem-turkoglu/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/didem-turkoglu/</guid>
       <description></description>
     </item>
     
@@ -117,10 +37,66 @@
     </item>
     
     <item>
+      <title>Carrie B Oser</title>
+      <link>/authors/carrie-b-oser/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/carrie-b-oser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaehyuk Park</title>
+      <link>/authors/jaehyuk-park/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jaehyuk-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffery Talbert</title>
+      <link>/authors/jeffery-talbert/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jeffery-talbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kai Cheng Yang</title>
+      <link>/authors/kai-cheng-yang/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kai-cheng-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Michelle Martel</title>
       <link>/authors/michelle-martel/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/michelle-martel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patricia R Freeman</title>
+      <link>/authors/patricia-r-freeman/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/patricia-r-freeman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Kaminski</title>
+      <link>/authors/patrick-kaminski/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/patrick-kaminski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong-Yeol Ahn</title>
+      <link>/authors/yong-yeol-ahn/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yong-yeol-ahn/</guid>
       <description></description>
     </item>
     
