@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Movements and Collective Action | Meltem Odabas</title>
-    <link>/teaching/social-movements/</link>
-      <atom:link href="/teaching/social-movements/index.xml" rel="self" type="application/rss+xml" />
-    <description>Social Movements and Collective Action</description>
+    <title>Sociology of Higher Education | Meltem Odabas</title>
+    <link>/teaching/higher-education/</link>
+      <atom:link href="/teaching/higher-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sociology of Higher Education</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Social Movements and Collective Action</title>
-      <link>/teaching/social-movements/</link>
+      <title>Sociology of Higher Education</title>
+      <link>/teaching/higher-education/</link>
     </image>
     
   </channel>

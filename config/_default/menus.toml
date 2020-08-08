@@ -23,15 +23,6 @@
   url = "teaching/"
   weight = 40
   
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-
-[[main]]
-  name = "Blog"
-  url = "post_webpage/"
-  weight = 60
 
 [[main]]
   name = "Contact"

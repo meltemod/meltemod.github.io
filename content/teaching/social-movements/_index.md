@@ -1,13 +1,13 @@
 ---
-  date: "2018-09-09T00:00:00Z"
+date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
 linktitle: Social Movements and Collective Action
 menu:
   social-movements:
-  name: Course Details
-weight: 1
-summary: this is an introductory course of social movement theories and relevant topics.  
+    name: Course Details
+    weight: 1
+summary: This is an introductory course of social movement theories and relevant topics.  
 title: Social Movements and Collective Action
 toc: true
 type: docs

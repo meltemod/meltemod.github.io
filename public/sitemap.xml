@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/teaching/social-movements/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/teaching/social-networks/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/higher-education/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -185,11 +195,6 @@
   <url>
     <loc>/project/reddit-music/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/teaching/social-movements/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
