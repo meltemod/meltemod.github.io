@@ -17,7 +17,7 @@ publication_types:
 - "2"
 publishDate: "2019-10-01T00:00:00Z"
 slides: 
-summary: During the initial phases of the pandemic a curfew was implemented for people at the age of 65+ years old in Turkey. This seemingly neutral policy measures that aimed to protect high-risk groups led to a shift in the public discourse that deprives citizens of their agency based not only on their age but also their class. 
+summary: During the initial phases of the pandemic a curfew was implemented for people at the age of 65+ years old in Turkey. This seemingly neutral policy measures that aimed to protect high-risk groups led to a shift in the public discourse that deprives citizens of their agency based not only on their age but also their class.  
 tags:
 - Source Themes
 title: '"Mischievous Uncles" as Rule Breakers: Intersectional stereotypes and risk perceptions
